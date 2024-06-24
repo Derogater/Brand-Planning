@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "3c01012d3a4ac038",
+    "type": "split",
+    "children": [
+      {
+        "id": "64c54d2a4b1ea433",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7d82d6b214e170f",
+    "type": "split",
+    "children": [
+      {
+        "id": "854389e64b6b5e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e86af15d6b887b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "17d1a466ec75f671",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cams",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8778653c01c5db1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "107b8e6cc0d65e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6466d93e0e807014",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4610a1656107ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64c54d2a4b1ea433",
+  "lastOpenFiles": [
+    "Devops Lectures/DevOps Lecture 1.md",
+    "Definitions/CAMS Measurement Definition.md",
+    "Definitions/CAMS Culture Definition.md",
+    "Definitions/Amazon EC2.md",
+    "Definitions/AWS VPC.md"
+  ]
+}

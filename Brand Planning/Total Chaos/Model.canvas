@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"a1e9c6295d452b17","type":"text","text":"SOURCE THE ITEM","x":-277,"y":-272,"width":227,"height":52},
+		{"id":"04de467757a9af06","type":"text","text":"FIND AN ITEM","x":-320,"y":-144,"width":220,"height":50},
+		{"id":"2af67363e7f20aba","type":"text","text":"PLATFORM TO SELL ITEM","x":-50,"y":-340,"width":260,"height":50},
+		{"id":"f4b5706bce3f187f","type":"text","text":"MARKETING/ADS FOR ITEM","x":210,"y":-245,"width":294,"height":50},
+		{"id":"28cf30f895204c00","type":"text","text":"SCALING UP OF ITEM","x":276,"y":-119,"width":265,"height":50},
+		{"id":"ac5b8c6853762037","type":"text","text":"REPLICATE/MULTIPLY","x":266,"y":6,"width":286,"height":50},
+		{"id":"c11f2a9cc59ca995","type":"text","text":"A SYSTEM FOR ITEM","x":120,"y":100,"width":217,"height":57},
+		{"id":"64231ac981219308","type":"text","text":"IMPROVING BRANDING","x":-100,"y":186,"width":228,"height":56},
+		{"id":"9d3a42649e75697d","type":"text","text":"DIVERSITY OF ITEM","x":-320,"y":107,"width":242,"height":50},
+		{"id":"95e96387d9b0af29","type":"text","text":"EXIT","x":-277,"y":-19,"width":76,"height":50},
+		{"id":"baa8b09ccb7beeed","type":"text","text":"CYCLE OF BUSINESS\n","x":-25,"y":-69,"width":205,"height":50},
+		{"id":"116e33ebcdd4fd7d","x":77,"y":846,"width":260,"height":71,"type":"text","text":"OWNING A BANK, STARTS WITH:-"},
+		{"id":"a9d8c4e96b788046","x":-760,"y":969,"width":211,"height":50,"type":"text","text":"MONEY IS INVESTED"},
+		{"id":"66a42641f2cd86d8","x":-462,"y":1200,"width":326,"height":50,"type":"text","text":"EVERY MEMBER POOLS THE MONEY"},
+		{"id":"e45789db396f1560","x":229,"y":1250,"width":320,"height":50,"type":"text","text":"TRUST ACCOUNT FOR EVER MEMBER"},
+		{"id":"ec09ef93aa4139d2","x":660,"y":994,"width":363,"height":38,"type":"text","text":"EVERY MEMBER IS MANAGING DIRECTOR"},
+		{"id":"6b8811ffdcc84c83","x":300,"y":560,"width":288,"height":50,"type":"text","text":"COMMUNITY TRUST STRUCTURE"},
+		{"id":"ef85c5a4013add65","x":-469,"y":610,"width":298,"height":50,"type":"text","text":"MEMBERS ARE PAID IN DIVIDENTS"}
+	],
+	"edges":[
+		{"id":"522c914070ee977f","fromNode":"04de467757a9af06","fromSide":"top","toNode":"a1e9c6295d452b17","toSide":"bottom"},
+		{"id":"804fb862519040f8","fromNode":"a1e9c6295d452b17","fromSide":"top","toNode":"2af67363e7f20aba","toSide":"left"},
+		{"id":"11e8c24ceee4682b","fromNode":"2af67363e7f20aba","fromSide":"right","toNode":"f4b5706bce3f187f","toSide":"top"},
+		{"id":"8dc5350743f845fa","fromNode":"f4b5706bce3f187f","fromSide":"bottom","toNode":"28cf30f895204c00","toSide":"top"},
+		{"id":"a94b0d65008852c8","fromNode":"28cf30f895204c00","fromSide":"bottom","toNode":"ac5b8c6853762037","toSide":"top"},
+		{"id":"0c51fdf33cbb115c","fromNode":"ac5b8c6853762037","fromSide":"bottom","toNode":"c11f2a9cc59ca995","toSide":"right"},
+		{"id":"44c430ca06b3eedf","fromNode":"c11f2a9cc59ca995","fromSide":"bottom","toNode":"64231ac981219308","toSide":"right"},
+		{"id":"566e8ba554d5cae0","fromNode":"64231ac981219308","fromSide":"left","toNode":"9d3a42649e75697d","toSide":"bottom"},
+		{"id":"f9bd55ea4260e1a9","fromNode":"9d3a42649e75697d","fromSide":"top","toNode":"95e96387d9b0af29","toSide":"bottom"},
+		{"id":"e5676fb267cef3f7","fromNode":"6b8811ffdcc84c83","fromSide":"right","toNode":"ec09ef93aa4139d2","toSide":"top"},
+		{"id":"8d84acadb17b8e50","fromNode":"ec09ef93aa4139d2","fromSide":"bottom","toNode":"e45789db396f1560","toSide":"right"},
+		{"id":"e97ddad29068ae63","fromNode":"e45789db396f1560","fromSide":"left","toNode":"66a42641f2cd86d8","toSide":"right"},
+		{"id":"1fddd7bc27c17dd8","fromNode":"66a42641f2cd86d8","fromSide":"top","toNode":"a9d8c4e96b788046","toSide":"bottom"},
+		{"id":"b7c8f09406078e4f","fromNode":"a9d8c4e96b788046","fromSide":"top","toNode":"ef85c5a4013add65","toSide":"bottom"},
+		{"id":"4a7e5327ba581ad0","fromNode":"ef85c5a4013add65","fromSide":"right","toNode":"66a42641f2cd86d8","toSide":"top"},
+		{"id":"c159365af76d6fd9","fromNode":"116e33ebcdd4fd7d","fromSide":"top","toNode":"6b8811ffdcc84c83","toSide":"left"}
+	]
+}

@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "45e2b892becfd8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f82b6d0dc16970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c14a41b059965ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company/E-Comm & Brand/Steps/Step 6 - Product Catalog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6063616d6dbffbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparing Sizes of half sleeves for XL Size.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21b0e8438cde55cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company/E-Comm & Brand/Steps/Step 5- Product Details and Structural Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b4401dd59655531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naming out patterns of products.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc31230b2e31bb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "who we compete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a6be9c70c75c23b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7106f1d668a76940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8dcccbb9cbcafda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84cec65512abbcf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "689fd8aeb86d39c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213,
+    "collapsed": true
+  },
+  "right": {
+    "id": "99914b53914c7e5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d620f2036ee7bff2",
+        "type": "tabs",
+        "dimension": 55.844155844155836,
+        "children": [
+          {
+            "id": "e146038fd6aed652",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "464ca44b16032769",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "who we compete.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16c642fa05b4bcf5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "10345d29d4ed76a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "who we compete.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1cacad74fd51237",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "who we compete.md"
+              }
+            }
+          },
+          {
+            "id": "962127f31f0db70c",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "3bcf61a40fc8712e",
+        "type": "tabs",
+        "dimension": 44.155844155844164,
+        "children": [
+          {
+            "id": "04666863f50b0679",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "who we compete.md"
+              }
+            }
+          },
+          {
+            "id": "47a31e00350fcf4c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": true,
+      "publish:Publish changes...": true,
+      "ledger-obsidian:Add to Ledger": false,
+      "chronology:Open Chronology": false
+    }
+  },
+  "active": "fc31230b2e31bb31",
+  "lastOpenFiles": [
+    "who we compete.md",
+    "Naming out patterns of products.md",
+    "NO CLIENT WANTS TO BE EDUCATED.md",
+    "CHEAT CODES.md",
+    "Company/E-Comm & Brand/Steps/Step 5- Product Details and Structural Guide.md",
+    "colonized culture.md",
+    "MAD MAN.md",
+    "In 5 years.md",
+    "What.md",
+    "what to sell.md",
+    "VENDORS.md",
+    "TYPES OF LOGOS.md",
+    "This shift is hard.md",
+    "STEPS FOR PRE-BRAND.md",
+    "Startup India.md",
+    "Size Quantity.md",
+    "Pricing strategy.mp4",
+    "LIKE AN A-BRND.md",
+    "ISSUE.md",
+    "Increase Orders.md",
+    "INCREASE INSTAGRAM COMMUNITY.md",
+    "Total Chaos/Brand.canvas",
+    "Total Chaos/Model.canvas",
+    "Total Chaos/TOTAL INVENTORY.canvas",
+    "COLLABS.md",
+    "Comparing Sizes of half sleeves for XL Size.md",
+    "During and After the Website Launch.md",
+    "EMS or EME Studio.md",
+    "FASHION STARTUP MISTAKES, THE MOST COMMON PITFALLS AND HOW TO STEER CLEAR OF THEM.md",
+    "HOW TO SET YOUR STYLE NUMBERS.md",
+    "The collars are a very overlooked feature when it comes to tops. Choosing the right collar should be more than just an afterthought as it adds a lot to the look of a piece..mp4",
+    "Total Chaos",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details",
+    "Company/E-Comm & Brand/Steps",
+    "Fuck/STEPS/piecesdb.json",
+    "Fuck/STEPS",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Marketing & Ads/PLATFORM-WISE STRATEGY/video/posting styles on instagram.mp4",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Marketing & Ads/PLATFORM-WISE STRATEGY/video/FB Marketing Strategy and ads campains.mp4",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Marketing & Ads/PLATFORM-WISE STRATEGY/video",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/SEVENTH/TYPE 1/NIGHT_SHORTS_MALE_31_1.webp",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/SEVENTH/TYPE 1/FLAT_LAY_NightPureCottonTee.webp",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/SEVENTH/TYPE 1/NIGHT_SHORTS_MALE_31.webp",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/SEVENTH/TYPE 1/NIGHT_SHORTS_MALE_37.webp",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/SEVENTH/TYPE 1/FLAT_LAY_NightPureCottonTeeProductFocus.webp",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/BALANCIAGA/balenciaga-black-hand-drawn-t-shirt.avif",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/BALANCIAGA/balenciaga-black-hand-drawn-t-shirt (1).avif",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/BALANCIAGA/balenciaga-black-hand-drawn-t-shirt (2).avif",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/BALANCIAGA/balenciaga-black-hand-drawn-t-shirt (3).avif",
+    "Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/IMAGES/BALANCIAGA/L.png",
+    "Untitled.canvas"
+  ]
+}

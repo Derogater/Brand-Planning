@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"731c0f8a21d8cbd4","x":-87,"y":-152,"width":122,"height":50,"type":"text","text":"BRAND"},
+		{"id":"bf405490a4208272","x":-63,"y":-284,"width":131,"height":50,"type":"text","text":"PURPOSE"},
+		{"id":"6ce39b2782304fa1","x":-274,"y":-259,"width":103,"height":50,"type":"text","text":"CLARITY"},
+		{"id":"5daf9df339ed4115","x":126,"y":-202,"width":136,"height":50,"type":"text","text":"CONNECTION"},
+		{"id":"d79e912e26a03b61","x":140,"y":-76,"width":171,"height":40,"type":"text","text":"MESSAGE"},
+		{"id":"8bb8852986c732e3","x":-171,"y":-5,"width":135,"height":45,"type":"text","text":"VALUES"},
+		{"id":"d493dcf0948c8155","x":35,"y":18,"width":147,"height":50,"type":"text","text":"STORY"},
+		{"id":"6373d7af100c841c","x":-352,"y":-106,"width":156,"height":50,"type":"text","text":"AUTHNTICITY"},
+		{"id":"344623595cfc4a82","x":-293,"y":701,"width":221,"height":54,"type":"text","text":"FEELINGS"},
+		{"id":"dc491e8a57ce733d","x":20,"y":700,"width":218,"height":56,"type":"text","text":"EMOTIONS"},
+		{"id":"7357408a27745d4d","x":331,"y":698,"width":211,"height":65,"type":"text","text":"LIFESTYLE"},
+		{"id":"758014bf3f048ce7","x":-36,"y":960,"width":298,"height":148,"type":"text","text":"PURCHASE"},
+		{"id":"8514413f8400185b","x":-36,"y":500,"width":342,"height":66,"type":"text","text":"EXPERIENCE DESIGN"}
+	],
+	"edges":[
+		{"id":"ffe877ccbcd0d977","fromNode":"bf405490a4208272","fromSide":"bottom","toNode":"731c0f8a21d8cbd4","toSide":"top"},
+		{"id":"efc2cc4a0303e8bf","fromNode":"5daf9df339ed4115","fromSide":"left","toNode":"731c0f8a21d8cbd4","toSide":"right"},
+		{"id":"d3bf20efd654e419","fromNode":"d79e912e26a03b61","fromSide":"left","toNode":"731c0f8a21d8cbd4","toSide":"right"},
+		{"id":"c8bbc91066fa0581","fromNode":"d493dcf0948c8155","fromSide":"top","toNode":"731c0f8a21d8cbd4","toSide":"bottom"},
+		{"id":"f860189112b4efa1","fromNode":"8bb8852986c732e3","fromSide":"top","toNode":"731c0f8a21d8cbd4","toSide":"bottom"},
+		{"id":"82b8a15f27425575","fromNode":"6373d7af100c841c","fromSide":"right","toNode":"731c0f8a21d8cbd4","toSide":"left"},
+		{"id":"c32807dd6f9bf2cc","fromNode":"6ce39b2782304fa1","fromSide":"right","toNode":"731c0f8a21d8cbd4","toSide":"left"},
+		{"id":"85e0d5e40b2bb33f","fromNode":"8514413f8400185b","fromSide":"bottom","toNode":"dc491e8a57ce733d","toSide":"top"},
+		{"id":"d8e9538affc9c7e7","fromNode":"8514413f8400185b","fromSide":"bottom","toNode":"344623595cfc4a82","toSide":"top"},
+		{"id":"067850a660554451","fromNode":"8514413f8400185b","fromSide":"bottom","toNode":"7357408a27745d4d","toSide":"top"},
+		{"id":"7c848bcb013995d2","fromNode":"344623595cfc4a82","fromSide":"bottom","toNode":"758014bf3f048ce7","toSide":"top"},
+		{"id":"eb7c8926abd20dba","fromNode":"dc491e8a57ce733d","fromSide":"bottom","toNode":"758014bf3f048ce7","toSide":"top"},
+		{"id":"cfdad1fbf0837376","fromNode":"7357408a27745d4d","fromSide":"bottom","toNode":"758014bf3f048ce7","toSide":"top"}
+	]
+}

@@ -1,0 +1,8 @@
+* [[EXPERIMENT]]
+* [[Survey]]
+* [[CASE STUDY]]
+* [[ACTION RESEARCH]]
+* [[GROUNDED THEORY]]
+* [[ETHNOGRAPHY]]
+* [[ARCHIVAL RESEARCH]]
+

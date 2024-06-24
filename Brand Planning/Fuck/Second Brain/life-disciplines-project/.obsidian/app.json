@@ -1,0 +1,19 @@
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "codeblocks",
+    "frontmatter",
+    "Frontmatter",
+    "Ikigai",
+    "Ikigais",
+    "Readme",
+    "setup",
+    "skillsets",
+    "Zettelkasten"
+  ],
+  "spellcheck": true
+}
