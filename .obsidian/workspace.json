@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
+                "file": "Brand Planning/Pre Launch/Cotton Vs Poly.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
+                "file": "Brand Planning/Pre Launch/Cotton Vs Poly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
+                "file": "Brand Planning/Pre Launch/Cotton Vs Poly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brand Planning/Company/E-Comm & Brand/LAMAN.md"
+                "file": "Brand Planning/Pre Launch/Cotton Vs Poly.md"
               }
             }
           }
@@ -207,11 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "003f0589465023c0",
+  "active": "7733311b4a2ef225",
   "lastOpenFiles": [
-    "Brand Planning/Pre Launch/MAD MAN.md",
     "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
-    "Cotton Vs Poly.md",
+    "Brand Planning/Pre Launch/MAD MAN.md",
+    "Brand Planning/Pre Launch/Cotton Vs Poly.md",
     "Brand Planning/Pre Launch/who we compete.md",
     "Brand Planning/Pre Launch/what to sell.md",
     "Brand Planning/Pre Launch/What.md",
