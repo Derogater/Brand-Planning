@@ -12,7 +12,7 @@ man = General Human
 
 The term “La Man” has multiple meanings depending on the context. Here are some possible interpretations:
 
-- **La Man** can also be used as a slang term to describe a sweetheart, lover, or mistress, as defined by Merriam-Webster.
+- **La Man**, also be used as a slang term to describe a sweetheart, lover, or mistress, as defined by Merriam-Webster.
 
 **Man** is a more general term that refers to an individual human.
 
@@ -22,6 +22,31 @@ It’s worth noting that the term “La Man” is not a widely recognized or com
 We founded Sparkle to offer healthy, sustainable, and innovative products made from the highest-quality ingredients that care for you and the planet.
 
 And small self introductory naming:-
+
+# About
+
+#### **noun**
+
+To us LaMan interprets as a place of rest and completeness.
+
+We embody a movement curated from a minimalist experience, a home, a place to feel good. 
+
+The silhouettes, color palettes and premium materials are key to our design philosophy, simplifying life through purposeful products; 
+
+Home is where LaMan is.
+
+**adjective**
+
+_LaMan_ used in qualitative inquiry to describe the trend to open the doors to new ways of studying and looking at human behavior, attitudes, and conditions.
+
+#### description
+
+Human's Immersing emotion, imagination and ownership to bring you the ultimate experience.
+
+More than a brand, LaMan embodies completion; a _sanctuary_ for the human's creative and stylish vision.
+
+Our calling is to create moments, experiences, and products that evoke _serenity_. Our _minimalistic_ design  
+culture is our expression of _completion_.
 
 # Tag Line
 
@@ -70,7 +95,7 @@ Generated from ChatGPT:-
 
 My Own:-
 
-For, by Humans.
+1. For, by Humans.
 
 > [!This Description of tagline is Generated b ChatGPT]
 > The phrase "For, by Humans." suggests that a product or service is both created by humans and intended for human use. It emphasizes the human touch in both the design and the intended audience, highlighting qualities such as:
@@ -82,29 +107,11 @@ For, by Humans.
 > 
 > If you are considering this phrase as a tagline or part of a branding message for "La Man," it would communicate that your custom-designed, over sized cotton t-shirts are thoughtfully crafted by people with the end users in mind, ensuring both quality and a personal touch.
 
-# About
 
-#### **noun**
+### **WHAT MOTIVATES / INSPIRE US:-**
 
-To us LaMan interprets as a place of rest and completeness.
 
-We embody a movement curated from a minimalist experience, a home, a place to feel good. 
+Future, Cultural, Nature,  Minimalism, Evolution.
 
-The silhouettes, color palettes and premium materials are key to our design philosophy, simplifying life through purposeful products; 
-
-Home is where LaMan is.
-
-**adjective**
-
-your _LaMan_ moment. (**The** **Seventh** **Moment** is a term used in qualitative inquiry to describe the trend to open the doors to new ways of studying and looking at human behavior, attitudes, and conditions)
-
-#### description
-
-Human's Immersing emotion, imagination and ownership to bring you the ultimate experience.
-
-More than a brand, LaMan embodies completion; a _sanctuary_ for the human's creative and stylish vision.
-
-Our calling is to create moments, experiences, and products that evoke _serenity_. Our _minimalistic_ design  
-culture is our expression of _completion_.
 
 **As for right now our focus is on Apparels and that starts with the below step, where you will also find our full list of Items Category:-  [[Step 0- Research]].

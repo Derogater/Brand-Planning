@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brand Planning/Pre Launch/CHEAT CODES.md",
+                "file": "Brand Planning/Pre Launch/who we compete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "003f0589465023c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brand Planning/Pre Launch/CHEAT CODES.md",
+                "file": "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brand Planning/Pre Launch/CHEAT CODES.md",
+                "file": "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brand Planning/Pre Launch/CHEAT CODES.md"
+                "file": "Brand Planning/Company/E-Comm & Brand/LAMAN.md"
               }
             }
           }
@@ -195,8 +207,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7733311b4a2ef225",
+  "active": "003f0589465023c0",
   "lastOpenFiles": [
+    "Brand Planning/Pre Launch/MAD MAN.md",
+    "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
+    "Cotton Vs Poly.md",
+    "Brand Planning/Pre Launch/who we compete.md",
+    "Brand Planning/Pre Launch/what to sell.md",
+    "Brand Planning/Pre Launch/What.md",
+    "Brand Planning/Pre Launch/This shift is hard.md",
+    "Brand Planning/Pre Launch/LIKE AN A-BRND.md",
+    "Brand Planning/Pre Launch/ISSUE.md",
+    "Brand Planning/Company/E-Comm & Brand/Steps/Step 4- Product Wiki.md",
     "Brand Planning/Pre Launch/COLLABS.md",
     "Brand Planning/Pre Launch/colonized culture.md",
     "Brand Planning/Comparing Sizes of half sleeves for XL Size.md",
@@ -205,25 +227,15 @@
     "Brand Planning/HOW TO SET YOUR STYLE NUMBERS.md",
     "Brand Planning/Pre Launch/INCREASE INSTAGRAM COMMUNITY.md",
     "Brand Planning/Pre Launch/Increase Orders.md",
-    "Brand Planning/Pre Launch/ISSUE.md",
-    "Brand Planning/Pre Launch/LIKE AN A-BRND.md",
-    "Brand Planning/Pre Launch/MAD MAN.md",
     "Brand Planning/Pre Launch/Naming out patterns of products.md",
     "Brand Planning/Pre Launch/NO CLIENT WANTS TO BE EDUCATED.md",
     "Brand Planning/Pre Launch/Size Quantity.md",
     "Brand Planning/Pre Launch/Startup India.md",
     "Brand Planning/Pre Launch/STEPS FOR PRE-BRAND.md",
-    "Brand Planning/Company/E-Comm & Brand/LAMAN.md",
     "Brand Planning/Pre Launch",
     "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/SUMMERY/SEVENTH.md",
     "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/SUMMERY/SINGH STUDIO.md",
     "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/TSHIRT - Boxy Data.md",
-    "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/SUMMERY/SINGA.md",
-    "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/SUMMERY/REPRESENT.md",
-    "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/SUMMERY/BALANC.md",
-    "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Details/DESIGNS, SIZES & DETAILS/SUMMERY/COLD CULTURE.md",
-    "Brand Planning/Company/E-Comm & Brand/Steps/Step 5- Product Details and Structural Guide.md",
-    "Brand Planning/Company/E-Comm & Brand/Steps/Step 6 - Product Catalog.md",
     "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Catalog Images/F.png",
     "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Catalog Images/FRONT.png",
     "Brand Planning/Company/E-Comm & Brand/Steps/Explained Step's Details/Product Catalog Images/OVERSIZED_T-SHIRT_cobalt_color copy.jpg",
